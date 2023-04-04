@@ -1,0 +1,31 @@
+[
+    {
+        "name" : "Priyangshu",
+        "voterid":"00400",
+        "age":"20",
+        "gender":"M",
+        "votedto":"NAN"
+    },
+    {
+        "name" : "Rahul",
+        "voterid":"00416",
+        "age":"19",
+        "gender":"M",
+        "votedto":"NAN"
+
+    },
+    {
+        "name" : "Pravarthak",
+        "voterid":"00395",
+        "age":"19",
+        "gender":"M",
+        "votedto":"NAN"
+    },
+    {
+    "name" : "test",
+        "voterid":"11111",
+        "age":"23",
+        "gender":"M",
+        "votedto":"NAN"
+    }
+]

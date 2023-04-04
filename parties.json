@@ -1,0 +1,26 @@
+[
+    {
+        "party": "KPJP",
+        "candidate": "Manmohan Singh",
+        "code": "1",
+        "votes": "2"
+    },
+    {
+        "party": "TMC",
+        "candidate": "Rajeev Gandhi",
+        "code": "2",
+        "votes": "0"
+    },
+    {
+        "party": "CONG",
+        "candidate": "Amit Kumar Shah",
+        "code": "3",
+        "votes": "1"
+    },
+    {
+        "party": "JDS",
+        "candidate": "Jaivardhan Reddy",
+        "code": "4",
+        "votes": "0"
+    }
+]
